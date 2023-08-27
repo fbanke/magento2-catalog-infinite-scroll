@@ -20,7 +20,7 @@
                 <hide_navigation>1</hide_navigation>
                 <navigation_class>.products.wrapper ~ .toolbar-products .pages</navigation_class>
                 <show_end_status>1</show_end_status>
-                <end_status_text>No More Products</end_status_text>
+                <end_status_text>Ikke flere produkter</end_status_text>
                 <debug>0</debug>
                 <display_type>1</display_type>
             </general>
